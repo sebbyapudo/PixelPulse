@@ -1,0 +1,6 @@
+.vscode/
+logs/
+bin/
+node_modules/
+*.json/
+
